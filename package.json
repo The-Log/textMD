@@ -1,0 +1,23 @@
+{
+  "name": "textmd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async-each": "^1.0.1",
+    "bigparser": "0.0.3",
+    "dotenv": "^2.0.0",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "python-shell": "^0.4.0",
+    "mongoose": "^4.6.0",
+    "request": "^2.74.0",
+    "stopword": "^0.1.1",
+    "url": "^0.11.0"
+  }
+}
